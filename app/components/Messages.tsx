@@ -14,10 +14,10 @@ const SYSTEM_MESSAGE = (
   <>
     本页面会将数据发送给 OpenAI
     <br />
-    请注意隐私风险，禁止发送违法内容
+    禁止发送违法内容
   </>
 );
-const WELCOME_MESSAGE = '你好！有什么我可以帮助你的吗？';
+const WELCOME_MESSAGE = '你好！初めてまして，よろしくお願いします！';
 const LOADING_MESSAGE = '正在努力思考...';
 
 export const Messages = () => {
