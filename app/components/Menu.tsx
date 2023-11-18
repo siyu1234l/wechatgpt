@@ -147,8 +147,8 @@ const MenuFooter = () => {
                   pb-[calc(1.25rem+env(safe-area-inset-bottom))]`}
     >
       由{' '}
-      <a className="text-gray-link" href="https://github.com/xcatliu/chatgpt-next" target="_blank">
-        ChatGPT Next
+      <a className="text-gray-link" href="https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default" target="_blank">
+        原神
       </a>{' '}
       驱动
     </div>
